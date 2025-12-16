@@ -71,8 +71,7 @@ This foundation supports more advanced features:
 
 ## Conclusion
 
-By following these steps you create a basic serverless authentication system: a user signs up via a hosted UI, and a serverless function  
-
+By following these steps you create a basic serverless authentication system: a user signs up via a hosted UI, and a serverless function validates and enriches their data before registration completes. This architecture is cloud-agnostic and ready for intelligent extensions, making it a strong starting point for production-grade identity systems.
 ## License
 
 This project is licensed under the Apache License, Version 2.0.
