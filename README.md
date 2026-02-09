@@ -13,6 +13,12 @@ The goal of this project is to provide a modular foundation for building serverl
 - **Extensibility** – integration points for fraud detection, risk scoring and adaptive security across multiple cloud platforms.
 
 ## Setup steps
+## Implementation walkthrough
+
+A detailed implementation walkthrough with screenshots is available in the accompanying PDF:
+
+[Sentinel Serverless Auth Implementation walkthrough](Sentinel_Serverless_Auth_Implementation.pdf)
+
 
 ### 1 – Define your application
 
