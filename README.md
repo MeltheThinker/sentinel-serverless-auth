@@ -1,6 +1,6 @@
 # Sentinel Serverless Authentication
 
-A cloud‑native authentication system demonstrating how serverless identity flows and event‑driven logic can be built on top of modern cloud platforms. It focuses on secure user registration, hosted sign‑in/sign‑up pages, and extensible validation logic using serverless compute. While the examples use Amazon Cognito and AWS Lambda, the concepts and patterns are applicable to any major cloud provider and are designed to integrate with machine learning frameworks.
+A cloud-native authentication system built on serverless architecture.
 
 ## Overview
 
